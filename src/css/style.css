@@ -4,6 +4,6 @@ body {
 
 @media (min-width: 376px) {
     body {
-        background-image: url(../images/background-pattern-desktop.svg);
+        background: url(../images/background-pattern-desktop.svg);
     }
 }
